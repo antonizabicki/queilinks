@@ -1,24 +1,36 @@
 {
-  "links":[
+  "links": [
     {
-      "name": "spotify",
-      "url": "https://open.spotify.com/artist/5UuNN4fNOfd46KIq4qhivx"
+      "name": "newest release",
+      "url": "https://open.spotify.com/album/1jX1unHtNYKnEVslFdSmLO"
     },
     {
-      "name": "instagram",
+      "name": "my ableton live devices",
+      "url": "https://what-is-next.vip/creative/"
+    },
+    {
+      "name": "about me",
+      "url": "https://quei.lol"
+    },
+    {
+      "name": "my brand",
+      "url": "https://what-is-next.vip/"
+    },
+    {
+      "name": "ig",
       "url": "https://www.instagram.com/quei_music"
     },
     {
-      "name": "youtube",
+      "name": "yt",
       "url": "https://www.youtube.com/@quei_music"
     },
     {
-      "name": "soundcloud",
+      "name": "sc",
       "url": "https://soundcloud.com/quei_music"
     },
     {
-      "name": "what-is-next™",
-      "url": "https://what-is-next.vip/"
+      "name": "business mail",
+      "url": "mailto:quei@what-is-next.vip"
     }
   ]
 }
