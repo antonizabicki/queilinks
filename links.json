@@ -1,0 +1,24 @@
+{
+  "links":[
+    {
+      "name": "spotify",
+      "url": "https://open.spotify.com/artist/5UuNN4fNOfd46KIq4qhivx"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/quei_music"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/@quei_music"
+    },
+    {
+      "name": "soundcloud",
+      "url": "https://soundcloud.com/quei_music"
+    },
+    {
+      "name": "what-is-next™",
+      "url": "https://what-is-next.vip/"
+    }
+  ]
+}
